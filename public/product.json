@@ -1,0 +1,122 @@
+[
+  {
+    "id": "1",
+    "name": "Audi Q4 e-tron",
+    "email": "humaira15-573@diu.edu.bd",
+    "description": "Audi is Volkswagen’s luxury brand, and Audi dealerships offer a lineup from two-seat roadsters to seven-seat SUVs. Audi also has added more performance and electrified.Audi also has added more performance and electrified.",
+    "img": "https://images.pexels.com/photos/1035108/pexels-photo-1035108.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+    "price": "$4000",
+    "quantity": "7",
+    "SupName": "Miraj Mahmud"
+  },
+  {
+    "id": "2",
+    "name": "BMW i7",
+    "email": "humaira15-573@diu.edu.bd",
+    "description": "New face, new spark. The new BMW i7 brings with it to the road a headlight that puts every other light in the shade. In partnership with Swarovski, BMW has developed a crystal headlight that guarantees an effect like never before.",
+    "img": "https://images.pexels.com/photos/100653/pexels-photo-100653.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "price": "$2500",
+    "quantity": "5",
+    "SupName": "Miraj Mahmud"
+  },
+  {
+    "id": "3",
+    "name": "Lamborghini",
+    "email": "humaira15-573@diu.edu.bd",
+    "description": " Lamborghini has spent decades as the purveyor of drool-worthy supercars that are more commonly seen on bedroom posters than actual roads. The Italian automaker is currently a subsidiary of Audi, which in turn is owned by the Volkswagen Group.",
+    "img": "https://autodiscoveries.com/wp-content/uploads/2022/04/3-2022-04-09-11_34_24-1875-Lamborghini-Huracan-EVO-TT-Wild-Huracan-from-MGP-GARAGE-YouTube.png",
+    "price": "$2000",
+    "quantity": "13",
+    "SupName": "Miraj Mahmud"
+  },
+  {
+    "id": "4",
+    "name": "Mercedez GLB SUV",
+    "email": "humaira15-573@diu.edu.bd",
+    "description": "Has any SUV ever fit so much into such a compact package? Seating for up to seven. Rugged in all the right places. Looks to match. So smart it can carry on a conversation, and carry out your wishes. And all priced to please.",
+    "img": "https://media.autoexpress.co.uk/image/private/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1597242342/autoexpress/2020/08/Mercedes%20GLA%20vs%20Volvo%20XC40-40.jpg",
+    "price": "$1700",
+    "quantity": "6",
+    "SupName": "Miraj Mahmud"
+  },
+  {
+    "id": "5",
+    "name": "LAND ROVER DISCOVERY",
+    "email": "humaira15-573@diu.edu.bd",
+    "description": "An unmistakable and purposeful design. A host of subtle and sophisticated refinements make the highly versatile Land Rover Discovery even more premium.Ciaz featuring minor cosmetic tweaks including a new grille.minor cosmetic.",
+    "img": "https://cdn.motor1.com/images/mgl/Zok9Z/s3/land-rover-defender-110-v8.jpg",
+    "price": "$1500",
+    "quantity": "8",
+    "SupName": "Miraj Mahmud"
+  },
+  {
+    "id": "6",
+    "name": "Toyota SUVs",
+    "email": "humaira15-573@diu.edu.bd",
+    "description": "If reports are to be believed, the Toyota Belta mid-size sedan will hit roads by mid August 2021. It will be based on the Maruti Suzuki Ciaz featuring minor cosmetic tweaks including a new grille.signature minor cosmetic. ",
+    "img": "https://www.indiacarnews.com/wp-content/uploads/2021/04/Toyota-RAV4-India-Launch.jpg",
+    "price": "$1500",
+    "quantity": "8",
+    "SupName": "Miraj Mahmud"
+  },
+  {
+    "id": "7",
+    "name": "Audi Q4 e-tron",
+    "email": "humairamitul@gmail.com",
+    "description": "Audi is Volkswagen’s luxury brand, and Audi dealerships offer a lineup from two-seat roadsters to seven-seat SUVs. Audi also has added more performance and electrified.Audi also has added more performance and electrified.",
+    "img": "https://images.pexels.com/photos/1035108/pexels-photo-1035108.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+    "price": "$4000",
+    "quantity": "7",
+    "SupName": "Miraj Mahmud"
+  },
+  {
+    "id": "8",
+    "name": "BMW i7",
+    "email": "humairamitul@gmail.com",
+    "description": "New face, new spark. The new BMW i7 brings with it to the road a headlight that puts every other light in the shade. In partnership with Swarovski, BMW has developed a crystal headlight that guarantees an effect like never before.",
+    "img": "https://images.pexels.com/photos/100653/pexels-photo-100653.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "price": "$2500",
+    "quantity": "5",
+    "SupName": "Miraj Mahmud"
+  },
+  {
+    "id": "9",
+    "name": "Lamborghini",
+    "email": "humairamitul@gmail.com",
+    "description": " Lamborghini has spent decades as the purveyor of drool-worthy supercars that are more commonly seen on bedroom posters than actual roads. The Italian automaker is currently a subsidiary of Audi, which in turn is owned by the Volkswagen Group.",
+    "img": "https://autodiscoveries.com/wp-content/uploads/2022/04/3-2022-04-09-11_34_24-1875-Lamborghini-Huracan-EVO-TT-Wild-Huracan-from-MGP-GARAGE-YouTube.png",
+    "price": "$2000",
+    "quantity": "13",
+    "SupName": "Miraj Mahmud"
+  },
+  {
+    "id": "10",
+    "name": "Mercedez GLB SUV",
+    "email": "hhumairamitul@gmail.com",
+    "description": "Has any SUV ever fit so much into such a compact package? Seating for up to seven. Rugged in all the right places. Looks to match. So smart it can carry on a conversation, and carry out your wishes. And all priced to please.",
+    "img": "https://media.autoexpress.co.uk/image/private/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1597242342/autoexpress/2020/08/Mercedes%20GLA%20vs%20Volvo%20XC40-40.jpg",
+    "price": "$1700",
+    "quantity": "6",
+    "SupName": "Miraj Mahmud"
+  },
+  {
+    "id": "11",
+    "name": "LAND ROVER DISCOVERY",
+    "email": "humairamitul@gmail.com",
+    "description": "An unmistakable and purposeful design. A host of subtle and sophisticated refinements make the highly versatile Land Rover Discovery even more premium.Ciaz featuring minor cosmetic tweaks including a new grille.minor cosmetic.",
+    "img": "https://cdn.motor1.com/images/mgl/Zok9Z/s3/land-rover-defender-110-v8.jpg",
+    "price": "$1500",
+    "quantity": "8",
+    "SupName": "Miraj Mahmud"
+  },
+  {
+    "id": "12",
+    "name": "Toyota SUVs",
+    "email": "humairamitul@gmail.com",
+    "description": "If reports are to be believed, the Toyota Belta mid-size sedan will hit roads by mid August 2021. It will be based on the Maruti Suzuki Ciaz featuring minor cosmetic tweaks including a new grille.signature minor cosmetic. ",
+    "img": "https://www.indiacarnews.com/wp-content/uploads/2021/04/Toyota-RAV4-India-Launch.jpg",
+    "price": "$1500",
+    "quantity": "8",
+    "SupName": "Miraj Mahmud"
+  }
+]
